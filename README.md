@@ -20,7 +20,7 @@ Dans le cadre de l'exercice 2, nous avons étudié la performance de la technolo
   - `exo2-wifi.cc`
   - `exo2-lora.cc`
   - `calculer_metriques.py` : Script qui permet de parser les fichiers de log et calculer les métriques pour LoRa
-- **rapport.pdf** : Rapport du TP au format PDF.
+- rapport.pdf** : Rapport du TP au format PDF.
 
 **Instructions de Compilation**
 1. Installer [ns3](https://www.nsnam.org/releases/ns-3-41/)
