@@ -4,6 +4,7 @@
 Ce depôt contient les scripts et les fichiers utilisés dans le cadre du TP Réseaux Sans-Fil dont le but était approfondir notre compréhension des technologies LoRaWAN et Wi-Fi.
 
 **Description**
+
 Dans le premier exercice, nous avons analysé l'impact de plusieurs paramètres de la technologie LoRaWAN, notamment le coding rate, le CRC et le mode de trafic, sur la consommation énergétique.
 
 Dans le cadre de l'exercice 2, nous avons étudié la performance de la technologie LoRaWan et Wi-Fi en fonction du nombre de nœuds. Notre objectif était d’évaluer l’impact du nombre de nœuds sur plusieurs métriques telles que le taux de succès des paquets (PDR), la latence moyenne et la consommation énergétique. Nous avons détaillé nos méthodologies de simulation (les scripts que nous avons développés ou améliorés) et analysé les résultats obtenus.
@@ -44,4 +45,5 @@ Dans le cadre de l'exercice 2, nous avons étudié la performance de la technolo
    ```
 
 **Remarque**
+
 Nous avons modifié les fichiers d'exemples disponibles sur [ce dépôt](https://github.com/signetlabdei/lorawan) ainsi que certains fichiers de LoRa pour ns3.
