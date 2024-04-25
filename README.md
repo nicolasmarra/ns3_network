@@ -1,7 +1,7 @@
 # ns3_network
 
 
-Ce depôt contient les scripts et les fichiers utilisés dans le cadre du TP Réseaux Sans-Fil dont le but était approfondir notre compréhension des technologies LoRaWAN et Wi-Fi.
+Ce depôt contient les scripts et les fichiers utilisés dans le cadre du TP de Réseaux Sans-Fil sur ns3 dont le but était approfondir notre compréhension des technologies LoRaWAN et Wi-Fi.
 
 **Description**
 
